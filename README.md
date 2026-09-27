@@ -26,12 +26,10 @@
 
 ## License
 
-This project is licensed under the **Business Source License 1.1**.
+This project is licensed under the **MIT License** — xem chi tiết tại file [LICENSE](LICENSE).
 
 ✅ **Permitted**
-- Free to use for personal and internal business/commercial purposes.
-- Copy, share, and modify the source code.
+- Free to use, copy, modify, distribute, and use for personal or commercial purposes.
 
 ❌ **Prohibited**
-- Selling the software or offering it as a paid commercial service.
-- Removing or modifying the original author attribution (**PardHazuo**).
+- Holding the authors liable for any damages or warranties (software provided "AS IS").
