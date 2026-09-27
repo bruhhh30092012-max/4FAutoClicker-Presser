@@ -26,7 +26,7 @@
 
 ## License
 
-This project is licensed under the **MIT License** — xem chi tiết tại file [LICENSE](LICENSE).
+This project is licensed under the **MIT License** — See details in the file. [LICENSE](LICENSE).
 
 ✅ **Permitted**
 - Free to use, copy, modify, distribute, and use for personal or commercial purposes.
